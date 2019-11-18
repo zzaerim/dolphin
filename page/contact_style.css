@@ -102,16 +102,8 @@ body {
 
 .cate_wrap ul li:first-child {
 	margin-left: 0;
-	font-weight: 600;
 }
 
-/**/
-
-#about_container {
-	background-color: #354779;
-	position: fixed;
-	top: 0;
-	left: 0;
-	min-width: 100%;
-	min-height: 100%;
+.cate_wrap ul li:last-child {
+	font-weight: 600;
 }
